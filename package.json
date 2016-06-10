@@ -1,0 +1,28 @@
+{
+  "name": "ethereum-smart-contracts-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "webpack-dev-server --content-base build/"
+  },
+  "directories": {
+  },
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "web3": "^0.16.0"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^3.0.1",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "json-loader": "^0.5.4",
+    "sass-loader": "^3.2.0",
+    "solc-loader": "1.x",
+    "style-loader": "^0.13.1",
+    "web3-loader": "1.x",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "keywords": [],
+  "author": "Tieto-lt"
+}
